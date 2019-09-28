@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD of Smart Mobility and Machine Learning
+role: PhD of Smart Mobility and AI
 
 # Organizations/Affiliations
 organizations:
