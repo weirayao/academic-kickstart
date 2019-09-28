@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Weiran Yao
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD of Smart Mobility and Machine Learning
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Carnegie Mellon University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,19 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Advanced Infrastructure Systems
+    institution: Carnegie Mellon University
+    year: Expected 2022
+  - course: MS in Machine Learning
+    institution: Carnegie Mellon University
+    year: Expected 2020
+  - course: MS in Civil and Environmental Engineering
+    institution: Carnegie Mellon University
+    year: 2019
+  - course: BS in Aerospace Engineering
+    institution: Beijing University of Aeronautics and Astronautics (BUAA)
+    year: 2016
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
