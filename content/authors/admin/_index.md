@@ -49,9 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:weiran@cmu.edu"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/networkcvi
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/networkcvi
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=rr_leUAAAAAJ&hl=en
