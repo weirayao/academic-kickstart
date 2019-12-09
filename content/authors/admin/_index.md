@@ -33,9 +33,6 @@ education:
   - course: MS in Machine Learning
     institution: Carnegie Mellon University
     year: Expected 2020
-  - course: MS in Civil and Environmental Engineering
-    institution: Carnegie Mellon University
-    year: 2019
   - course: BS in Aerospace Engineering
     institution: Beijing University of Aeronautics and Astronautics (BUAA)
     year: 2016
