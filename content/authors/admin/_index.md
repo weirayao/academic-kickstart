@@ -72,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Weiran Yao is a PhD student in the Department of Civil and Environmental Engineering at Carnegie Mellon University. Before joining MAC, I spent one year working as a research assistant in City University of Hong Kong. I applied social media analytics into the design decision support of Transit-Oriented development in Hong Kong. I received my Bachelor’s degree in Aircraft Airworthiness from Beihang University in 2016.
