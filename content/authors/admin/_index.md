@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Large-Scale Multi-Agent Reinforcement Learning 
+- Large-Scale Multi-Agent RL 
 - Connected Autonomous Vehicles Control
 - Implicit Deep Learning
 - Applied Data Science
